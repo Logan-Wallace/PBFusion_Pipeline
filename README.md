@@ -1,3 +1,3 @@
 # PBFusion_Pipeline
 
-A Nextflow pipeline to make fusion calls from raw sequencing data
+A Nextflow pipeline to make fusion calls from PacBio RNAseq data
